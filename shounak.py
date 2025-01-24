@@ -1,4 +1,3 @@
-# mira
 from mira_sdk import MiraClient, Flow
 
 # Initialize the client
