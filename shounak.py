@@ -1,7 +1,7 @@
 from mira_sdk import MiraClient, Flow
 
 # Initialize the client
-client = MiraClient(config={"API_KEY": "sb-944c4206f203ad660021d8288faf145a"})
+client = MiraClient(config={"API_KEY": "your api key"})
 
 version = "1.0.0"
 input_data = {}
